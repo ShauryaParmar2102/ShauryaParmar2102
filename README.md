@@ -5,7 +5,7 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 ---
 
 ## 💻 Programming/Development Languages 
-
+Here are the main languages and technologies I use regularly:
 - 🟨 JavaScript
 - ⚡ Node.js  
 - 🌐 HTML  
