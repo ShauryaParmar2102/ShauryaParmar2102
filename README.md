@@ -4,11 +4,12 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 
 ---
 
-## 💻 Programming/Development Languages 
-Here are the main languages I use regularly:
+## 💻 Programming/Development Languages
 - 🟨 JavaScript
-- 🌐 HTML  
-- 🎨 CSS  
+- ⚡ Node.js
+- 
+- 🌐 HTML
+- 🎨 CSS
 ---
 
 ✨ I love **learning by building and watching tutorials** — typing out code, experimenting, and understanding how everything works under the hood.
