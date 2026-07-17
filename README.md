@@ -4,20 +4,15 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 
 ---
 
-## 💻 Programming/Development Languages
+## 💻 Programming/Web Development Languages
+
 - 🟨 JavaScript
 - 🐍 Python
-- ⚡ Node.js
 - 🟣 PHP
-- 🚀 Express.js
 - 🌐 HTML
 - 🎨 CSS
-
-### My Coding Stats
-
-[![Shaurya's GitHub stats](https://shion.dev)](https://github.com)
-
-
+- 🚀 Express.js
+- ⚡ Node.js
 ---
 
 👨‍💻 My Programming Journey
