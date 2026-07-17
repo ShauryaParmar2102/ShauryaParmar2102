@@ -13,6 +13,14 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 - 🌐 HTML
 - 🎨 CSS
 
+### My Coding Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" height="165" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="165" />
+</p>
+
+
 ---
 
 👨‍💻 My Programming Journey
