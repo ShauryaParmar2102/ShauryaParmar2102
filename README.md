@@ -11,9 +11,8 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 - 🟣 PHP
 - 🌐 HTML
 - 🎨 CSS
-- 🚀 Express.js
 - ⚡ Node.js
----
+- 🚀 Express.js
 
 👨‍💻 My Programming Journey
 
