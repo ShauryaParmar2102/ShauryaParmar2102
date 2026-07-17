@@ -15,10 +15,7 @@ I'm a passionate **Diploma of Front-End Web Development** student who loves codi
 
 ### My Coding Stats
 
-<p align="left">
-  <img src="https://ShauryaParmar2102" alt="Top Languages" height="165" />
-  <img src="https://ShauryaParmar2102" alt="GitHub Stats" height="165" />
-</p>
+[![Shaurya's GitHub stats](https://shion.dev)](https://github.com)
 
 
 ---
