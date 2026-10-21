@@ -24,8 +24,6 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 
 🗄️ MySQL
 
-💻 JavaScript
-
 
 👨‍💻 My Programming Journey
 
