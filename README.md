@@ -37,7 +37,7 @@ At the time, I wasn’t entirely sure what career I wanted to pursue, but I had 
 
 After graduating from high school in October 2024, I decided to explore opportunities in the IT industry.
 
-🛒 2025 | My First Retail Job & Discovering Programming
+## 🛒 2025 | My First Retail Job & Discovering Programming
 
 In 2025, I finally achieved one of my high school goals when I got a job at Kmart.
 
@@ -51,7 +51,7 @@ In June 2025, I completed my Certificate III in Information Technology and conti
 
 I began learning more about programming, website development and building interactive applications.
 
-🚀 2026 | Developing My Programming Skills
+## 🚀 2026 | Developing My Programming Skills
 
 Throughout 2026, I’ve made significant progress in my programming journey.
 
@@ -77,7 +77,7 @@ However, these experiences have helped me become a better problem-solver and a m
 
 Looking back at the basic HTML and CSS websites I built in 2025 compared to the full-stack applications I’m developing today, I’m proud of how much I’ve learned.
 
-🎯 2027 | My Next Chapter
+## 🎯 2027 | My Next Chapter
 
 My goal for 2027 is to begin my career as an entry-level web developer.
 
@@ -85,7 +85,7 @@ I’m looking forward to working alongside experienced developers, contributing 
 
 I understand that programming is a field where there’s always something new to learn, and I’m excited about the opportunities ahead.
 
-🌟 What I’ve Learned
+## 🌟 What I’ve Learned
 
 One of the biggest lessons I’ve learned is that the career you originally wanted isn’t necessarily the career you’ll end up enjoying.
 
