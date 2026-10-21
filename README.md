@@ -25,7 +25,7 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 🗄️ MySQL
 
 
-💻 My Journey: From Retail to Web Development
+## 💻 My Journey: From Retail to Web Development
 
 🏫 2023–2024 | High School – Finding My Direction
 
