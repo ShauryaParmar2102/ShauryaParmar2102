@@ -37,7 +37,7 @@ I'm a Diploma of Front-End Web Development student passionate about building mod
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🔧 Development Tools & Cloud
+### 🔧 Development Tools 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -86,7 +86,7 @@ Some of the technologies I’ve worked with include:
 * Backend: Node.js, Express.js and REST APIs
 * Databases: MySQL
 * Other Languages: Python, C# and TypeScript
-* Tools: Git, GitHub, VS Code, Swagger and AWS
+* Tools: Git, GitHub, VS Code and Swagger
 
 One of my biggest projects has been High Street Gym, a full-stack web application featuring user authentication, role-based access control, session bookings, database integration and a React frontend.
 
